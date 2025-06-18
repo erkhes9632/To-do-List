@@ -1,0 +1,77 @@
+#Main {
+  display: flex;
+  justify-content: center;
+  margin-top: 50px;
+}
+#Big-box {
+  border-radius: 10px;
+  background-color: burlywood;
+  border: 1px solid black;
+  height: 250px;
+  width: 300px;
+  padding: 25px;
+}
+#Title {
+  text-align: center;
+  font-size: 20px;
+}
+#Input-button {
+  margin-top: 20px;
+}
+#Input {
+  border-radius: 5px;
+  height: 25px;
+  width: 225px;
+}
+#Button-add {
+  border-radius: 5px;
+  height: 30px;
+  width: 60px;
+  background-color: bisque;
+}
+#Buttons {
+  margin-top: 15px;
+}
+#All {
+  background-color: bisque;
+  height: 30px;
+  width: 40px;
+  border-radius: 5px;
+}
+#Active {
+  background-color: bisque;
+  height: 30px;
+  width: 70px;
+  border-radius: 5px;
+}
+#Completed {
+  background-color: bisque;
+  height: 30px;
+  width: 90px;
+  border-radius: 5px;
+}
+#Mid-sentense {
+  text-align: center;
+  margin-top: 30px;
+}
+#Bottom-text {
+  display: flex;
+  justify-content: center;
+  margin-top: 70px;
+  gap: 5px;
+}
+#Bottom-text2 {
+  color: blue;
+}
+#Button:hover {
+  background-color: aqua;
+}
+#All:hover {
+  background-color: aqua;
+}
+#Active:hover {
+  background-color: aqua;
+}
+#Completed:hover {
+  background-color: aqua;
+}
