@@ -7,7 +7,6 @@
   border-radius: 10px;
   background-color: burlywood;
   border: 1px solid black;
-  height: 250px;
   width: 300px;
   padding: 25px;
 }
@@ -57,13 +56,13 @@
 #Bottom-text {
   display: flex;
   justify-content: center;
-  margin-top: 70px;
+  margin-top: 20px;
   gap: 5px;
 }
 #Bottom-text2 {
   color: blue;
 }
-#Button:hover {
+#Button-add:hover {
   background-color: aqua;
 }
 #All:hover {
